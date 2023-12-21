@@ -885,6 +885,12 @@ a {
   #FEATURES
 \*-----------------------------------*/
 
+.features-1 {
+  background: var(--opal);
+  padding-block: var(--section-padding);
+}
+
+
 .features {
   background: var(--cultured-2);
   padding-block: var(--section-padding);
@@ -1412,8 +1418,8 @@ a {
   }
 
   .features-card .card-icon {
-    width: 80px;
-    height: 80px;
+    width: 120px;
+    height: 120px;
     font-size: 32px;
   }
 
